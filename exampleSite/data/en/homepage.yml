@@ -23,19 +23,21 @@ about:
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
-  title: WE BELIEVE IN GREAT IDEAS
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  title: MITGLIED WERDEN
+  content: "Wir sind offen für neue Aktivmitglieder, die den Sinn und Zweck des Vereins
+    unterstützen und fördern. \nBei Interesse an einer Mitgliedschaft sieht der Ablauf
+    wie folgt aus. Du füllst dieses Formular aus: https://xf-love.ch/u/mitglied-verein\nAlle
+    Mitglieder des Vereins werden über deine Anfragen informiert und angehört. Bei
+    Zweifel wird eine Bürgschaft durch ein Aktivmitglied des Vereins erforderlich.
+    Der Entscheid über die Aufnahme von neuen Mitgliedern liegt beim Vorstand. Dieser
+    behält sich vor, Anfragen abzulehnen.\n\nUnsere Statuten findest du unter dem
+    folgenden Link https://xf-love.ch/u/statuten\n\nDer Mitgliederbeitrag betrug im
+    2019 und 2020 jeweils 50.- CHF. \nÜber die Höhe des Beitrags wird jedes Jahr neu
+    an der Mitgliederversammlung abgestimmt."
   button:
     enable: true
-    label: View Works
-    link: project
+    label: Zum Formular
+    link: https://xf-love.ch/u/mitglied-verein
 service:
   enable: true
 cta:
