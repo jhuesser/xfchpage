@@ -22,7 +22,7 @@ about:
   image: images/xflogobig.png
 portfolio:
   enable: true
-  bg_image: images/mdgrp.jpg
+  bg_image: images/together.png
   title: MITGLIED WERDEN
   content: "Wir sind offen für neue Aktivmitglieder, die den Sinn und Zweck des Vereins
     unterstützen und fördern. \nBei Interesse an einer Mitgliedschaft sieht der Ablauf
@@ -67,7 +67,7 @@ funfacts:
     count: "24"
   - icon: ion-ios-beer-outline
     name: Biere getrunken
-    count: 125+
+    count: "125"
   - icon: ion-ios-phone-portrait-outline
     name: Field arts
     count: "20"
