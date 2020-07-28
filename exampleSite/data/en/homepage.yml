@@ -40,6 +40,11 @@ portfolio:
     link: https://xf-love.ch/u/mitglied-verein
 service:
   enable: true
+  title: 'test '
+  description: test
+  service_item:
+  - name: test
+    content: test
 cta:
   enable: true
   bg_image: images/nl-ungrad.jpg
