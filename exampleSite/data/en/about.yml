@@ -1,7 +1,7 @@
 ---
 about:
   enable: true
-  image: images/company/mdgrp.jpg
+  image: "/images/mdgrp.jpg"
   title: Über unseren Verein
   content: "Im Jahre 2016 begannen wir im Raum Zürich XF FieldArts zu bauen, und daraus
     entstand eine Community (damals noch auf G+). Wir trafen uns nicht nur für Scanner
