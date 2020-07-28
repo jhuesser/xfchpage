@@ -22,7 +22,7 @@ about:
   image: images/xflogobig.png
 portfolio:
   enable: true
-  bg_image: images/featue-bg.jpg
+  bg_image: images/mdgpr.jpg
   title: MITGLIED WERDEN
   content: "Wir sind offen für neue Aktivmitglieder, die den Sinn und Zweck des Vereins
     unterstützen und fördern. \nBei Interesse an einer Mitgliedschaft sieht der Ablauf
@@ -56,14 +56,12 @@ cta:
     link: https://docs.google.com/forms/d/e/1FAIpQLSf81EtTQryJDuHEVQEGlM6B341Un3Tfp4p9RFpDUHaYnqBB-w/viewform?usp=sf_link
 funfacts:
   enable: true
-  title: Fun Facts About Us
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics'"
+  title: Fakten über den Verein
+  description: 'Hier ein paar Fakten über unseren Verein:'
   funfact_item:
-  - icon: ion-ios-chatboxes-outline
-    name: Cups Of Coffee
-    count: "99"
+  - icon: ion-ios-calendar-outline
+    name: Vereinevents
+    count: "3"
   - icon: ion-ios-glasses-outline
     name: Article Written
     count: "45"
