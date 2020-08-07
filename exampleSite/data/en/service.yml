@@ -40,10 +40,9 @@ service:
   - icon: ion-flag
     name: Mission Day Bern
     content: Unser Verein ist aus dem Mission Day Bern entstanden.
-  - icon: ion-compass
-    name: Web Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: ion-flashlight
+    name: Laser Tag
+    content: Einen Vereinsevent verbrachten wir mit Laser Tag
   - icon: ion-image
     name: App Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
