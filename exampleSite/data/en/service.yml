@@ -49,7 +49,7 @@ service:
   - icon: ion-fast-food
     name: Essen
     content: Nach den Events gönnen wir uns etwas gutes zu Essen.
-  - icon: ion-headphone
+  - icon: ion-beer
     name: Logo Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
