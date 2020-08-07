@@ -43,10 +43,9 @@ service:
   - icon: ion-flashlight
     name: Laser Tag
     content: Einen Vereinsevent verbrachten wir mit Laser Tag
-  - icon: ion-image
-    name: App Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: ion-trail-sign
+    name: Seilpark
+    content: Einen weiteren Event werden wir im Seilpark verbringen.
   - icon: ion-bug
     name: Start Up
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
