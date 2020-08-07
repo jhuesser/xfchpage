@@ -12,13 +12,13 @@ banner:
 about:
   enable: true
   title: Wer wir sind
-  description: |
+  description: |-
+    Im Jahre 2016 begannen wir im Raum Zürich XF FieldArts zu bauen, und daraus entstand eine Community (damals noch auf G+). Wir trafen uns nicht nur für Scanner Aktivitäten, sondern auch immer wieder für ein Feierabendbier oder auch einen Brunch.
+    2018 wurde ein Missionday in Bern veranstaltet, was zur Geburtsstunde des Vereins wurde. Das Bankkonto, welches für den MD eröffnet wurde, wird vom Verein verwaltet.
+  content: |-
     Präsident: Olivia Metzler (LivyDai) Kassier: José Hernandez (durchdiewand) Aktuar: Manfred Aregger (Sirius198673) Beisitz: Jonas Hüsser (jhuesser) und David Leder (qolume)
     Unsere Revisorin ist Ruxandra Rey (Styanera)
     Die Wahl des Vorstandes sowie der Revisionsstelle findet an der Generalversammlung (GV) statt.
-  content: |
-    Im Jahre 2016 begannen wir im Raum Zürich XF FieldArts zu bauen, und daraus entstand eine Community (damals noch auf G+). Wir trafen uns nicht nur für Scanner Aktivitäten, sondern auch immer wieder für ein Feierabendbier oder auch einen Brunch.
-    2018 wurde ein Missionday in Bern veranstaltet, was zur Geburtsstunde des Vereins wurde. Das Bankkonto, welches für den MD eröffnet wurde, wird vom Verein verwaltet.
   image: images/xflogobig.png
 portfolio:
   enable: true
