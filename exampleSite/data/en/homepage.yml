@@ -22,7 +22,7 @@ about:
   image: images/xflogobig.png
 portfolio:
   enable: true
-  bg_image: images/together.png
+  bg_image: "/images/portfolio/work3.jpg"
   title: MITGLIED WERDEN
   content: "Wir sind offen für neue Aktivmitglieder, die den Sinn und Zweck des Vereins
     unterstützen und fördern. \nBei Interesse an einer Mitgliedschaft sieht der Ablauf
