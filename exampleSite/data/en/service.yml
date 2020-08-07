@@ -46,10 +46,9 @@ service:
   - icon: ion-trail-sign
     name: Seilpark
     content: Einen weiteren Event werden wir im Seilpark verbringen.
-  - icon: ion-bug
-    name: Start Up
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: ion-fast-food
+    name: Essen
+    content: Nach den Events gönnen wir uns etwas gutes zu Essen.
   - icon: ion-headphone
     name: Logo Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
