@@ -32,7 +32,7 @@ featured_service:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
       impedit repudiandae omnis est temporibus.
 service:
-  enable: true
+  enable: false
   title: Was wir machen
   description: Als Verein führen wir diverse Events für unsere Mitglieder durch. Auch
     unterstützen wir Crossfaction Ingress Events. Hier findest du eine kurze Übersicht.
@@ -46,7 +46,7 @@ service:
   - icon: ion-trail-sign
     name: Seilpark
     content: Einen weiteren Event werden wir im Seilpark verbringen.
-  - icon: ion-fast-food
+  - icon: ion-pizza
     name: Essen
     content: Nach den Events gönnen wir uns etwas gutes zu Essen.
   - icon: ion-beer
