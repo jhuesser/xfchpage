@@ -58,19 +58,7 @@ funfacts:
   enable: true
   title: Fakten über den Verein
   description: 'Hier ein paar Fakten über unseren Verein:'
-  funfact_item:
-  - icon: ion-ios-calendar-outline
-    name: Vereinevents
-    count: "3"
-  - icon: ion-ios-people-outline
-    name: Vereinsmitglieder
-    count: "24"
-  - icon: ion-ios-beer-outline
-    name: Biere getrunken
-    count: "125"
-  - icon: ion-ios-phone-portrait-outline
-    name: Field arts
-    count: "20"
+  funfact_item: []
   testimonial_slider:
   - name: Raymond Roy
     image: images/clients/avater-1.jpg
