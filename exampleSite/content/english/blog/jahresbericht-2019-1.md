@@ -1,10 +1,10 @@
 +++
 author = "Olivia Metzler"
-bg_image = ""
+bg_image = "/images/fieldart-10-2019.jpg"
 categories = ["Vorstand", "Jahresbericht"]
 date = 2019-11-30T23:00:00Z
 description = "Jahresbericht der Präsidentin"
-image = ""
+image = "/images/mv-3-2019.jpg"
 tags = ["Events", "Vorstand", "Jahresbericht"]
 title = "Jahresbericht 2019"
 type = "post"
@@ -20,6 +20,8 @@ Als Präsident freue ich mich mit dem ersten Jahresbericht unseres Vereins auf e
 
 Am 28. März trafen sich 13 Mitglieder des Vereins in der Kontikibar im Zürcher Niederdorf. Besprochen wurden unter anderem die Umsetzung des Sinn und Zwecks des Vereins, der Jahresbeitrag und die Aufnahme neuer Mitglieder. Wir beschlossen, dass der Verein und seine Mittel nicht nur für Ingress Events da sein sollen, sondern dass uns das gemütliche Beisammensein mindestens genauso wichtig ist. Um uns nicht zu übernehmen im ersten Jahr, entschieden die Anwesenden einen Jahresbeitrag von 50 CHF festzusetzen, und vorerst keine neuen Mitglieder anzuwerben. Ende Jahr kann nun gesagt werden, dass dieser Entscheid sinnvoll war.
 
+![](/images/mv-3-2019.jpg)
+
 ### Ausserordentliche Mitgliederversammlung
 
 Am 17. Oktober fand eine ausserordentliche Mitgliederversammlung statt, da der Vorstand einen Wechsel beim Amt des Kassiers vorgenommen hat. Die Mitglieder des Vorstands haben sich dabei nicht geändert, es wurde lediglich das Amt des Kassiers und das Amt des Beisitzers unter zwei Vorstandsmitgliedern getauscht. Der Antrag wurde von allen anwesenden Aktivmitgliedern einstimmig angenommen. Lieben Dank!
@@ -27,6 +29,8 @@ Am 17. Oktober fand eine ausserordentliche Mitgliederversammlung statt, da der V
 ### DER Vereins-Event
 
 Am 9. November war der grosse Tag, um unser Vereinsbudget zu nutzen. Es trafen sich 12 Mitglieder und 2 Gäste zum vorher demokratisch gewählten Lasertag Event in Zürich. Der Eintritt in die Arena wurde aus der Vereinskasse bezahlt. Wir versammelten uns um 15.00 Uhr am Hauptbahnhof Zürich und sind zu Fuss zur Lasertag Arena spaziert. Es waren 3 Spiele a je 12 Minuten gebucht, die wir dank des zuvorkommenden Veranstalters unter uns spielen konnten. In gewohnter Manier (mit Humor und nicht zu verbissen) haben wir uns spielerisch bekämpft. Angenehm war, dass wir diesmal vorher nicht in der Kälte Waffen farmen mussten 😀 Wir hatten grossen Spass und das Herumrennen in der Arena hat uns nicht nur rote Köpfe, sondern auch einen guten Hunger beschert. Das Loch im Bauch konnten wir nachher beim gemeinsamen Abendessen in einem netten, kleinen Restaurant am Zähringerplatz stillen. Das Essen war sehr fein und die Bedienung wunderbar. Herzlichen Dank an José für das Organisieren des Events!
+
+![](/images/lasertag-11-2019.jpg)![](/images/essen-11-2019.jpg)
 
 ### Vorstandssitzungen
 
@@ -45,6 +49,8 @@ Im 2019 fanden an den meisten ersten Samstagen im Monat ein Scanner-Event statt.
 ### FieldArt
 
 Am 19. Oktober fand in einem kleinen Rahmen eine XF Scanner-Aktion in Schlieren statt. Obschon das Wetter nicht das Beste war, konnten 7 Agents das Vorhaben, Crosslinks zu schiessen, in die Tat umsetzen. Die Aufgabe war nicht einfach, doch wir haben es geschafft ohne einen einzigen Virus zu benutzen! Bravo! Das Ergebnis kann sich sehen lassen:
+
+![](/images/fieldart-10-2019.jpg)
 
 ## Organisation des Vereins und Personelles
 
