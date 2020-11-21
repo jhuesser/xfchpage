@@ -8,7 +8,7 @@ information:
 - label: Event Type
   info: Ingress Mission Day
 - label: Was wir gemacht haben
-  info: Organisation und Durchführen Ingress Mission Day Zürich
+  info: Orga
 - label: Datum
   info: 28.01.2017
 
