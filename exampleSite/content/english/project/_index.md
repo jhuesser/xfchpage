@@ -5,12 +5,12 @@ bg_image: "/images/dji_0046.JPG"
 category: Event
 image: "/images/bernmdlogobig.png"
 information:
-- label: Datum
-  info: 15.12.2018
 - label: Event Type
   info: Ingress Mission Day
 - label: Was wir gemacht haben
   info: Orga
+- label: Datum
+  info: 15.12.2018
 
 ---
 ## Missionday Bern
