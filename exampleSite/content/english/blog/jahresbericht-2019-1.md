@@ -4,7 +4,6 @@ bg_image = ""
 categories = ["Vorstand", "Jahresbericht"]
 date = 2019-11-30T23:00:00Z
 description = "Jahresbericht der Präsidentin"
-draft = true
 image = ""
 tags = ["Events", "Vorstand", "Jahresbericht"]
 title = "Jahresbericht 2019"
