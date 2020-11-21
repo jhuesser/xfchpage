@@ -2,21 +2,15 @@
 title: MD Zurich
 description: Ingress MissionDay Zurich
 image: "/images/zhmdlogo.png"
-bg_image: images/featue-bg.jpg
-category: Video
+bg_image: "/images/footer.jpg"
+category: Event
 information:
-- label: Client
-  info: Jannie Kelonsky
-- label: What We Did
-  info: Website Redesign
-- label: Tools Used
-  info: Photoshop,Illustrator
-- label: Completed on
-  info: 17th March 2014
-- label: Skills
-  info: HTML5 / PHP / CSS3
-- label: Client
-  info: Jannie Kelonsky
+- label: Event Type
+  info: Ingress Mission Day
+- label: Was wir gemacht haben
+  info: Organisation und Durchführen Ingress Mission Day Zürich
+- label: Datum
+  info: 28.01.2017
 
 ---
 ## Missionday Zurich
