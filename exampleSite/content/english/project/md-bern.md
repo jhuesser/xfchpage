@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/dji_0046.JPG"
-category = ""
+category = "Event"
 description = "Ingress Mission Day Bern"
 image = "/images/bernmdlogobig.png"
 title = "MD Bern"
