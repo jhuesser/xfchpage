@@ -138,15 +138,15 @@ URL = "contact"
 name = "Contact"
 weight = 7
 [params]
-author = "Themefisher"
+author = "Ingress XF CH"
 contact_form_action = "#"
 description = "This is meta description"
-email = "demo@email.com"
+email = "verein@xf-love.ch"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = "Zürich, Schweiz"
 logo = "images/xflogo.png"
-mobile = "0124857985320"
-multi_author = false
+mobile = ""
+multi_author = true
 [params.gmap]
 enable = false
 gmap_api = ""
