@@ -56,7 +56,7 @@ google_analitycs_id = ""
 location = "Zürich, Schweiz"
 logo = "images/xflogo.png"
 mobile = ""
-multi_author = true
+multi_author = false
 [params.gmap]
 enable = false
 gmap_api = ""
