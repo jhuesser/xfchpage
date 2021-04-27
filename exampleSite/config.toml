@@ -139,14 +139,14 @@ name = "Contact"
 weight = 7
 [params]
 author = "Ingress XF CH"
-contact_form_action = "#"
-description = "This is meta description"
+contact_form_action = "#x"
+description = "Ingress Crossfaction Verein Schweiz"
 email = "verein@xf-love.ch"
 google_analitycs_id = ""
 location = "Zürich, Schweiz"
 logo = "images/xflogo.png"
 mobile = ""
-multi_author = false
+multi_author = true
 [params.gmap]
 enable = false
 gmap_api = ""
@@ -154,7 +154,7 @@ map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
 [params.nav_button]
-enable = true
+enable = false
 label = "Get A Quote"
 link = "contact"
 [[params.plugins.css]]
@@ -183,20 +183,8 @@ preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
-icon = "ion-social-googleplus-outline"
+icon = "ion-social-telegram-outline"
 link = "#"
 [[params.social]]
-icon = "ion-social-linkedin-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-pinterest-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-dribbble-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-twitter-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-facebook-outline"
+icon = "ion-social-instagram-outline"
 link = "#"
