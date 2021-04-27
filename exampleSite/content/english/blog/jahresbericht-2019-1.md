@@ -1,5 +1,5 @@
 +++
-author = "Olivia Metzler"
+author = "Jonas Hüsser"
 bg_image = "/images/fieldart-10-2019.jpg"
 categories = ["Vorstand", "Jahresbericht"]
 date = 2019-11-30T23:00:00Z
