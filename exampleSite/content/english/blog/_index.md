@@ -1,6 +1,6 @@
 ---
-title: "Latest News"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: Latest News
+description: this is meta description
+bg_image: "/images/d074fb1724a053ece4e4ce5d9667d67ca5a9edee-jpg.webp"
+
 ---
