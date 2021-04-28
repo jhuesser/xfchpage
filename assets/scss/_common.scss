@@ -8,6 +8,11 @@ iframe {
   border: 0;
 }
 
+img{
+  max-width: 100%;
+  height: auto;
+}
+
 a,
 a:focus,
 a:hover {
@@ -254,7 +259,6 @@ input[type="tel"] {
 
   h2 {
     text-transform: uppercase;
-    font-size: 28px;
     font-weight: 600;
   }
 
@@ -271,6 +275,13 @@ input[type="tel"] {
   font-weight: 600;
   margin-bottom: 30px;
 
+  @include mobile-xs {
+    font-size: 26px;
+  }
+
+  @include mobile {
+    font-size: 24px;
+  }
 }
 
 
@@ -284,7 +295,7 @@ input[type="tel"] {
     h1 {
       color: $light;
       font-weight: 200;
-      letter-spacing: 6px;
+      letter-spacing: 0.15em;
       margin-top: 0;
       text-transform: capitalize;
     }
@@ -327,7 +338,7 @@ input[type="tel"] {
   padding: 70px 0;
 }
 
-// Social Media Icons 
+// Social Media Icons
 .social-media-icons {
   ul {
     li {
@@ -604,10 +615,17 @@ input[type="tel"] {
   display: none;
 }
 
-.sticky-top{
+.sticky-top {
   position: sticky;
   top: 0;
   @include desktop {
     position: static;
   }
+}
+
+
+span.cloaked-e-mail:before {
+  content: attr(data-domain) "\0040" attr(data-user);
+  unicode-bidi: bidi-override;
+  direction: rtl;
 }

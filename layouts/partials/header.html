@@ -1,6 +1,6 @@
 <!-- Header Start -->
 <header class="navigation">
-  <div class="container">
+  <div class="container-fluid">
     <div class="row">
       <div class="col-md-12">
         <!-- header Nav Start -->
@@ -12,8 +12,8 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="{{ site.BaseURL | relLangURL }}">
-              <img src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}" class="img-responsive">
+            <a class="navbar-brand" href="{{ "/" | relLangURL }}">
+              <img src="{{ site.Params.logo | relURL }}" alt="{{ site.Title }}" width="{{site.Params.logo_width}}" class="img-responsive">
             </a>
           </div>
           <!-- Collect the nav links, forms, and other content for toggling -->
@@ -41,17 +41,18 @@
                 <select id="select-language" onchange="location = this.value;">
                   {{ $siteLanguages := site.Languages}}
                   {{ $pageLang := .Page.Lang}}
-                  {{ range .Page.AllTranslations }}
+                  {{ $scratch := newScratch }}{{ if eq .Page.Kind "404" }}{{ $scratch.Set "translations" site.Home.AllTranslations }}{{ else }}{{ $scratch.Set "translations" .Page.AllTranslations }}{{ end }}
+                  {{ range ($scratch.Get "translations") }}
                   {{ $translation := .}}
                   {{ range $siteLanguages }}
                   {{ if eq $translation.Lang .Lang }}
                   {{ $selected := false }}
                   {{ if eq $pageLang .Lang}}
-                  <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" selected>
+                  <option id="{{ $translation.Language }}" value="{{ $translation.RelPermalink }}" selected>
                     {{ .LanguageName }}
                   </option>
                   {{ else }}
-                  <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}">{{ .LanguageName }}
+                  <option id="{{ $translation.Language }}" value="{{ $translation.RelPermalink }}">{{ .LanguageName }}
                   </option>
                   {{ end }}
                   {{ end }}

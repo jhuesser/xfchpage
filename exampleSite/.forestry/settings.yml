@@ -5,10 +5,25 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
+  label: Homepage
+- type: document
+  path: exampleSite/content/english/_index.md
+  label: Homepage (en)
+- type: document
+  path: exampleSite/content/french/_index.md
+  label: Homepage (fr)
+- type: heading
   label: Blog Post
 - type: directory
   path: exampleSite/content/english/blog
   label: Post (en)
+  create: documents
+  match: "**/*"
+  templates:
+  - post
+- type: directory
+  path: exampleSite/content/french/blog
+  label: Post (fr)
   create: documents
   match: "**/*"
   templates:
@@ -22,6 +37,13 @@ sections:
   match: "**/*"
   templates:
   - author
+- type: directory
+  path: exampleSite/content/french/author
+  label: Author (fr)
+  create: documents
+  match: "**/*"
+  templates:
+  - author
 - type: heading
   label: Project
 - type: directory
@@ -31,40 +53,27 @@ sections:
   match: "**/*"
   templates:
   - project
-- type: heading
-  label: Others Pages
 - type: directory
-  path: exampleSite/content/english/about
-  label: About (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/english/service
-  label: Service (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/english/pricing
-  label: Pricing (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/english/faq
-  label: FAQ (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/english/contact
-  label: Contact (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/english/pages
-  label: Created Pages (en)
+  path: exampleSite/content/french/project
+  label: Project (fr)
   create: documents
   match: "**/*"
   templates:
-  - new-page
+  - project
+- type: heading
+  label: Other Pages
+- type: directory
+  path: exampleSite/content/english
+  label: Other Pages (en)
+  create: documents
+  match: "*"
+  exclude: _index.md
+- type: directory
+  path: exampleSite/content/french
+  label: Other Pages (fr)
+  create: documents
+  match: "*"
+  exclude: _index.md
 - type: directory
   path: exampleSite/content/english
   label: All Pages (en)
@@ -72,13 +81,15 @@ sections:
   match: "**/*"
   templates:
   - new-page
-- type: heading
-  label: Data
 - type: directory
-  path: exampleSite/data/en
-  label: Data (en)
+  path: exampleSite/content/french
+  label: All Pages (fr)
   create: all
   match: "**/*"
+  templates:
+  - new-page
+- type: heading
+  label: Translations
 - type: directory
   path: exampleSite/i18n
   label: i18n

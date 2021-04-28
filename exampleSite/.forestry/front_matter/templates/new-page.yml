@@ -1,6 +1,6 @@
 ---
 label: New Page
-hide_body: false
+hide_body: true
 fields:
 - type: text
   name: title
@@ -8,9 +8,6 @@ fields:
 - type: text
   name: description
   label: description
-- name: bg_image
-  type: file
-  config:
-    maxSize: 250
-  label: bg image
-  description: page header background image
+- type: file
+  name: bg_image
+  label: bg_image

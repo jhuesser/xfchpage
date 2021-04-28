@@ -32,6 +32,3 @@ fields:
   name: type
   label: type
   default: post
-pages:
-- exampleSite/content/english/blog/jahresbericht-2019-1.md
-- exampleSite/content/english/blog/jahresbericht-2019-1.md
