@@ -36,10 +36,6 @@ URL = "project"
 name = "Project"
 weight = 3
 [[Languages.en.menu.main]]
-URL = "service"
-name = "Service"
-weight = 4
-[[Languages.en.menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 5
@@ -93,7 +89,7 @@ preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
-icon = "ion-paper-plane-outline"
+icon = "ion-socialpaper-plane-outline"
 link = "#"
 [[params.social]]
 icon = "ion-social-instagram-outline"
