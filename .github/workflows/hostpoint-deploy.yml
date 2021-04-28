@@ -1,5 +1,8 @@
 name: Deploy to Hostpoint
-on: [push]
+on:
+  push:
+    branches:
+      - master
 jobs:
   Deploy:
     runs-on: ubuntu-latest
