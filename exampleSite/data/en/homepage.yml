@@ -4,7 +4,10 @@ banner:
   bg_image: images/nl-ungrad.jpg
   bg_overlay: true
   title: Ingress XF CH
-  content: Wir sind ein Schweizer Crossfaction Ingress Verein, welcher blablalbalablalaba
+  content: Wir sind ein Schweizer Crossfaction Ingress Verein, welcher einerseits
+    Ingress Events unterstützt und veranstaltet. Andererseits sind wir auch bestrebt,
+    Menschen die sich über Ingress kennengelernt haben, weiter in Kontakt zu halten.
+    Dazu veranstalten wir mehrmals im Jahr auch Aktivitäten über den Scanner hinaus.
   button:
     enable: true
     label: Tritt uns bei
