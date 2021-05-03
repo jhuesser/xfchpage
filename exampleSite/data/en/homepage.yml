@@ -16,7 +16,7 @@ about:
     Im Jahre 2016 begannen wir im Raum Zürich XF FieldArts zu bauen, und daraus entstand eine Community (damals noch auf G+). Wir trafen uns nicht nur für Scanner Aktivitäten, sondern auch immer wieder für ein Feierabendbier oder auch einen Brunch.
     2018 wurde ein Missionday in Bern veranstaltet, was zur Geburtsstunde des Vereins wurde. Das Bankkonto, welches für den MD eröffnet wurde, wird vom Verein verwaltet.
   content: |-
-    Präsident: Olivia Metzler (LivyDai) Kassier: José Hernandez (durchdiewand) Aktuar: Manfred Aregger (Sirius198673) Beisitz: Jonas Hüsser (jhuesser) und David Leder (qolume)
+    Präsident: Olivia Metzler (LivyDai) Kassier: José Hernandez (durchdiewand) Aktuar: Manfred Aregger (Sirius198673) Beisitz: Jonas Hüsser (jhuesser) und Damaris Jäger (DJ84)
     Unsere Revisorin ist Ruxandra Rey (Styanera)
     Die Wahl des Vorstandes sowie der Revisionsstelle findet an der Generalversammlung (GV) statt.
   image: images/xflogobig.png
@@ -49,7 +49,10 @@ cta:
   enable: true
   bg_image: images/nl-ungrad.jpg
   title: Ingress XF CH
-  content: Wir sind ein Schweizer Crossfaction Ingress Verein, welcher blablabla
+  content: Wir sind ein Schweizer Crossfaction Ingress Verein, welcher einerseits
+    Ingress Events unterstützt und veranstaltet. Andererseits sind wir auch bestrebt,
+    Menschen die sich über Ingress kennengelernt haben, weiter in Kontakt zu halten.
+    Dazu veranstalten wir mehrmals im Jahr auch Aktivitäten über den Scanner hinaus.
   button:
     enable: true
     label: Tritt uns bei
