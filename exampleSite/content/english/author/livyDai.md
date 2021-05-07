@@ -1,11 +1,17 @@
 ---
 title: Olivia Metzler
-email: jhuesser@crossfaction.ch
+email: livy@crossfaction.ch
 bg_image: images/featue-bg.jpg
 social:
 - icon: ion-social-twitter-outline
   link: https://twitter.com/JonasHuesser
+image: "/images/photo_2021-05-07-21-24-20.jpeg"
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+Agentname: LivyDai
+
+Telegram me: [@livydai](https://t.me/livydai)
+
+Mitglied im Verein seit: 2018 (Gründungsmitglied)
+
+Funktion im Vorstand: Präsidentin
