@@ -3,6 +3,8 @@ title: Jonas Hüsser
 email: jhuesser@crossfaction.ch
 bg_image: images/featue-bg.jpg
 social:
+- icon: ion-social-github-outline
+  link: https://github/jhuesser
 - icon: ion-social-twitter-outline
   link: https://twitter.com/JonasHuesser
 
