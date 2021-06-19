@@ -1,6 +1,6 @@
 ---
 title: Jonas Hüsser
-email: jhuesser@crossfaction.ch
+email: jonas@huesser.org
 bg_image: images/img-129-1.jpg
 social:
 - icon: ion-social-github-outline
