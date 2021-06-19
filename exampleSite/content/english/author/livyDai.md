@@ -1,7 +1,7 @@
 ---
 title: Olivia Metzler
 email: livy@crossfaction.ch
-bg_image: images/featue-bg.jpg
+bg_image: images/img-129-1.jpg
 social:
 - {}
 image: "/images/photo_2021-05-07-21-24-20.jpeg"
