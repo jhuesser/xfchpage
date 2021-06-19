@@ -45,7 +45,7 @@ name = "Contact"
 weight = 7
 [params]
 author = "Ingress XF CH"
-contact_form_action = "#x"
+contact_form_action = "https://formspree.io/f/mnqlvwya"
 description = "Ingress Crossfaction Verein Schweiz"
 email = "verein@xf-love.ch"
 google_analitycs_id = ""
