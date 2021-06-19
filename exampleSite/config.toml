@@ -89,8 +89,5 @@ preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
-icon = "ion-socialpaper-plane-outline"
-link = "#"
-[[params.social]]
 icon = "ion-social-instagram-outline"
-link = "#"
+link = "https://www.instagram.com/xfswitzerland/"
