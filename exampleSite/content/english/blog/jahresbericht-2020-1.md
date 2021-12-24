@@ -68,7 +68,7 @@ Wie auf dem Bild ersichtlich ist, berichten wir auch auf Instagram über die Akt
 
 ![](/images/instaween.png)
 
-\#### Advendskalender
+#### Advendskalender
 
 Zum Jahresende wurden den Mitgliedern jede Woche eine neue Aufgabe gestellt. Die Teilnahme war natürlich freiwillig und je nach Auftrag war auch eine Portion Kreativität gefragt. Jeweils nach einer Woche wurde per Abstimmung entschieden, wer die Aufgabe
 am besten gelöst hat. Sie haben ein kleines Geschenk erhalten oder dieses ist auf dem
