@@ -40,7 +40,7 @@ Wie bei vielen Events des Vereins, sind auch Treffen in diesem Kanal nicht nur d
 sondern auch für Freund:Innen offen. So hatten wir immer mal wieder Gäste, über deren Anwesenheit sich alle sichtlich freuen. 
 Unter anderem war dies am ***5. Februar*** möglich, (siehe Foto rechts) und auch am ***20. Mai*** fand ein Feierabend-Bier Meeting in unserem Zoom Kanal statt. 
 
-![Bier-Zoom Gruppenbild](/images/ZoomBier.jpg)
+![Bier-Zoom Gruppenbild](/images/ZoomBeer.jpg)
 
 ### 27.6. Grill und Bier Dübendorf
 
@@ -80,7 +80,7 @@ Nicht unerwähnt lassen möchten wir, dass auch in Basel ein paar Agents einen L
 
 Am ***30. Oktober*** wurde zudem im Forsthaus Muntel, in welchem Dave 2019 seinen Geburtstag feierte, in einer kleinen Runde von ihm Abschied genommen. 
 
-![Gruppenfoto im Forsthaus](/images/ForsthausDave.png)
+![Gruppenfoto im Forsthaus](/images/ForsthausDave.jpg)
 
 ### Bier im Gleis
 
