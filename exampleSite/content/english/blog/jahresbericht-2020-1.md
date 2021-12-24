@@ -45,7 +45,7 @@ und musste natürlich abgesagt werden.
 Als wir dann alle im Sommer etwas aufatmen konnten, haben wir in einem zweiten Anlauf auch die Mitgliederversammlung durchgeführt. Am 26. Juni trafen wir uns in Dübendorf im Garten.
 Wir haben zusammen gegrillt und Marcel verwöhnte uns mit einem feinen Dessert. Danke! Mit vollem Magen haben wir dann die Zukunft des Vereins besprochen, nachdem das Protokoll der letzten Generalversammlung sowie der Revisionsbericht einstimmig abgesegnet wurden. Ideen zu gemeinsamen Aktivitäten wurden gesammelt und es wurde über den Mitgliederbeitrag diskutiert und abgestimmt.
 
-![](/images/gv2020.jpeg)![](/images/vorstand2020.jpeg)
+![Gruppenfoto GV 2020](/images/gv2020.jpeg)![Gruppenfoto Vorstand 2020](/images/vorstand2020.jpeg)
 
 ### Vorstandssitzungen
 
@@ -66,26 +66,26 @@ Wie auf dem Bild ersichtlich ist, berichten wir auch auf Instagram über die Akt
 
 [https://www.instagram.com/xfswitzerland/](https://www.instagram.com/xfswitzerland/)
 
-![](/images/instaween.png)
+![Screenshot Instagram Halloween](/images/instaween.png)
 
-#### Advendskalender
+#### Advendskalender
 
 Zum Jahresende wurden den Mitgliedern jede Woche eine neue Aufgabe gestellt. Die Teilnahme war natürlich freiwillig und je nach Auftrag war auch eine Portion Kreativität gefragt. Jeweils nach einer Woche wurde per Abstimmung entschieden, wer die Aufgabe
 am besten gelöst hat. Sie haben ein kleines Geschenk erhalten oder dieses ist auf dem
 Weg zu ihnen. Hier die Gewinner und ein paar weitere Auszüge aus dem Online Adventskalender, den in unserem Vereins-Chat stattgefunden hat.
 
-![](/images/a4.jpg)
+![Gewinnerbild Kletere durch ein A4 Blatt](/images/a4.jpg)
 Gewinner des 1. Advent Rätsels:
 Klettere durch ein A4 Blatt
 
-![](/images/xfkrippe.jpeg)
+![Gewinner XF-Krippe](/images/xfkrippe.jpeg)
 Gewinnerin der 2. Advent Aufgabe:
 Bastle eine XF-Krippe
 
-![](/images/xmasselfie.jpeg)
+![Gewinner Advent Selfie](/images/xmasselfie.jpeg)
 Gewinner des 3. Advent Selfie
 
-![](/images/cookies.jpeg) ![](/images/intelkrippe.jpeg) ![](/images/baum1.jpeg) ![](/images/baum2.jpeg) ![](/images/ZS.jpeg)
+![Guetzle](/images/cookies.jpeg) ![Krippe auf der Intelmap](/images/intelkrippe.jpeg) ![Baum-Selfie](/images/baum1.jpeg) ![Baum-Selfie](/images/baum2.jpeg) ![Zivilschutz Selfie](/images/ZS.jpeg)
 
 ## Anlässe, die von Vereinsmitgliedern durchgeführt werden
 
@@ -93,14 +93,14 @@ Gewinner des 3. Advent Selfie
 
 Der Scanner Event, welcher immer am ersten Samstag im Monat stattfindet, wurde von Niantic im April auch digitalisiert und findet seit da virtuell statt. Da man so nun an diesem Event irgendwo auf der Welt teilnehmen kann, finden in der Schweiz nicht mehr so viele First Saturday statt. Diese wurden nicht allein von Mitgliedern des Vereins veranstaltet, jedoch traf man sich ab und an mal wieder in einem Zoom um Rätsel zu lösen und gemeinsam Portale zu rechargen.
 
-![](/images/fs2020.png)
-![](/images/fancyfs2020.png)
+![iFS Zurich](/images/fs2020.png)
+![iFS Gruppenbild](/images/fancyfs2020.png)
 
 ### FieldArt
 
 Am 19. Oktober fand in einem kleinen Rahmen eine XF Scanner-Aktion in Schlieren statt. Obschon das Wetter nicht das Beste war, konnten 7 Agents das Vorhaben, Crosslinks zu schiessen, in die Tat umsetzen. Die Aufgabe war nicht einfach, doch wir haben es geschafft ohne einen einzigen Virus zu benutzen! Bravo! Das Ergebnis kann sich sehen lassen:
 
-![](/images/fieldart-10-2019.jpg)
+![Fielard Screenshot](/images/fieldart-10-2019.jpg)
 
 ### Regelmässig unregelmässig Bier
 
