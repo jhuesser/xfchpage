@@ -32,7 +32,7 @@ Von den schönen lustigen Erinnerungen an diesen Tag konnten wir in den darauffo
 
 Danke an Laura für den Bericht!
 
-![](/images/schlittle.jpeg)
+![Gruppenfoto Schlittelausflug](/images/schlittle.jpeg)
 
 ### Ausserordentliche Mitgliederversammlung
 
