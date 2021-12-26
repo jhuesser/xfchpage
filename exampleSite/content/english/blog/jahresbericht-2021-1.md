@@ -2,7 +2,7 @@
 author = "LivyDai"
 bg_image = "/images/abschiedDave.jpg"
 categories = ["Vorstand", "Jahresbericht"]
-date = 2021-12-26T22:05:59Z
+date = 2021-12-26T21:05:59Z
 description = "Jahresbericht der Präsidentin"
 image = "/images/Sommer2021.jpg"
 tags = ["Events", "Vorstand", "Jahresbericht"]
