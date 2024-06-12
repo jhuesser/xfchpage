@@ -40,7 +40,7 @@ portfolio:
   button:
     enable: true
     label: Zum Formular
-    link: https://xf-love.ch/u/mitglied-verein
+    link: https://docs.google.com/forms/d/e/1FAIpQLSf81EtTQryJDuHEVQEGlM6B341Un3Tfp4p9RFpDUHaYnqBB-w/viewform?usp=sf_link
 service:
   enable: false
   title: 'test '
